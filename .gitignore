@@ -1,0 +1,7 @@
+Thumbs.db
+desktop.ini
+.BIN/
+*.lnk
+node_modules/
+.env
+*.log
